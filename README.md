@@ -1,4 +1,4 @@
-markdown# Multi-Functional Python Calculator
+# Multi-Functional Python Calculator
 
 This is a learning project I built to practice Python basics, handle inputs, and explore the built-in `math` module. 
 
